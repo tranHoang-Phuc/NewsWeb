@@ -1,0 +1,12 @@
+E:\ASPNET\Wizard Magazine\DataAccess\bin\Debug\DataAccess.dll.config
+E:\ASPNET\Wizard Magazine\DataAccess\bin\Debug\DataAccess.dll
+E:\ASPNET\Wizard Magazine\DataAccess\bin\Debug\DataAccess.pdb
+E:\ASPNET\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.dll
+E:\ASPNET\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\ASPNET\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.xml
+E:\ASPNET\Wizard Magazine\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\ASPNET\Wizard Magazine\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\ASPNET\Wizard Magazine\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\ASPNET\Wizard Magazine\DataAccess\obj\Debug\DataAccess.dll
+E:\ASPNET\Wizard Magazine\DataAccess\obj\Debug\DataAccess.pdb
+E:\ASPNET\Wizard Magazine\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
